@@ -1,7 +1,8 @@
-## Hi there 👋
+# Peijing Li
 
-<!--
-**PJLI98/PJLI98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst **
+
+Skills: Data Analysis, Visualisation
 
 Here are some ideas to get you started:
 
