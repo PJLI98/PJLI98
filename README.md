@@ -5,8 +5,7 @@
 <a href="https://www.linkedin.com/in/peijingli-/" target="blank"><img align="center" src="https://img.shields.io/badge/-Peijing Li-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peijingli-/" alt="Peijing Li" height="25" width="90" /></a>
 
 ## Technologies Skills ⚙️
-
-* Advance Excel</a> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> </a>
+* Advance Excel</a> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="22" height="22"/> </a>
 
 * MySQL</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="20"/> </a>  
 
