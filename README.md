@@ -1,7 +1,7 @@
 <h1 align="center">Hi🤓, I'm Peijing Li</h1>
 <h3 align="center">A passionate Data Analyst based in London</h3>
 
-<a href="https://www.linkedin.com/in/peijingli-/" target="blank"><img align="center" src="https://img.shields.io/badge/-Peijing Li-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peijingli-/" alt="Peijing Li" height="25" width="90" /></a>
+<a href="https://www.linkedin.com/in/peijingli-/" target="blank"><img align="center" src="https://img.shields.io/badge/-Peijing Li-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peijingli-/" alt="Peijing Li" height="25" width="90" /></a> https://public.tableau.com/app/profile/peijingli
 
 ## Technologies Skills ⚙️
 * Advance Excel</a> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="22" height="22"/> </a>
