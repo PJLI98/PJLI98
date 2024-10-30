@@ -1,5 +1,5 @@
-<h1 align="center">Hi🤓, I'm Peijing Li</h1>
-<h3 align="center">A passionate Data Analyst based in London</h3>
+<h1 >Hi🤓, I'm Peijing Li</h1>
+<h3 >A passionate Data Analyst based in London</h3>
 
 <a href="https://www.linkedin.com/in/peijingli-/" target="blank"><img align="center" src="https://img.shields.io/badge/-Peijing Li-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peijingli-/" alt="Peijing Li" height="25" width="90" />
 
