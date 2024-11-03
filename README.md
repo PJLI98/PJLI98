@@ -17,9 +17,11 @@
 
 <h3 align="left"> Certifications 🎓 </h3>
 
-- [Tableau Desktop Specialist](https://www.credly.com/badges/097c9408-6d8a-4703-8c0c-98201d691893)
-- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-gb/PeijingLi-9776/8E6BB1C3FF5CD93A?sharingId)
+[<img width="100px" src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png">](https://www.credly.com/badges/097c9408-6d8a-4703-8c0c-98201d691893) [<img width="100px" src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png">](https://learn.microsoft.com/api/credentials/share/en-gb/PeijingLi-9776/8E6BB1C3FF5CD93A?sharingId)
 
 
+## 📁 Project Samples
 
-### 📊 Data Viz Projects
+[**Bank Customer Segmentation**] | Python
+
+* Analysed 10,000 records of bank customers data
