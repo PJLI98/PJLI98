@@ -17,7 +17,7 @@
 
 <h3 align="left"> Certifications 🎓 </h3>
 
-[<img width="100px" src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png">](https://www.credly.com/badges/097c9408-6d8a-4703-8c0c-98201d691893) [<img width="100px" src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png">](https://learn.microsoft.com/api/credentials/share/en-gb/PeijingLi-9776/8E6BB1C3FF5CD93A?sharingId)
+[<img width="130px" src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png">](https://www.credly.com/badges/097c9408-6d8a-4703-8c0c-98201d691893) [<img width="120px" src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png">](https://learn.microsoft.com/api/credentials/share/en-gb/PeijingLi-9776/8E6BB1C3FF5CD93A?sharingId) [<img width="120px" src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png">](https://www.credly.com/badges/473d859a-4749-4b81-a8ae-dd48d84c0a16)
 
 
 ## 📁 Project Samples
